@@ -7,9 +7,18 @@ logo: "/assets/images/LTSEC_Docs_Dark.png"
 
 color_scheme: ltsec
 
-footer_content: "Copyright &copy; 2022 LTSEC. Distributed by an <a href=\"https://github.com/LTSEC/ltsec.github.io/blob/main/LICENSE\">MIT license.</a>"
+footer_content: "Created in a mad haze by LTSEC. Distributed under an <a href=\"https://github.com/LTSEC/ltsec.github.io/blob/main/LICENSE\">MIT license.</a>"
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Check out our Github!: https://github.com/ltsec
+
+# nav_external_links:
+  # - title:  
+  #   url:    
+  # hide_icon: true
+  # - title: LTSEC Website
+  #   url: https://www.ltsec.club
+  # - title: LTSEC CTF
+  #   url: https://ctf.ltsec.club

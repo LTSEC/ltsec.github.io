@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-nav_order: 1
+nav_order: 0
 description: "LTSEC Docs is the documentation platform for LTSEC, the cybersecurity club at Louisiana Tech University."
 permalink: /
 ---
@@ -13,7 +13,7 @@ Documentation for LTSEC-sponsored programs, competitions writeups, and other tom
 {: .fs-6 .fw-300 }
 
 [www.ltsec.club][LTSEC Website]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[ctf.ltsec.club][LTSEC CTF]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[ctf.ltsec.club][LTSEC CTF]{: .btn .red-100 .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -24,7 +24,9 @@ LTSEC Docs is the documentation platform for LTSEC, the cybersecurity club at [L
 
 ### About
 
-Founded in 2018 as the Cybersecurity Defense Club, LTSEC has been the premier organization at Louisiana Tech University for hands-on cybersecurity learning experiences. We compete in and organize a variety of cybersecurity competitions and experiences, allowing Cyber Engineers, Computer Scientists, or anyone of any major to get real-world applicable experience in cyberseucirty and have fun along the way!
+Founded in 2020 as the Cybersecurity Defense Club, LTSEC has been the premier organization at Louisiana Tech University for hands-on cybersecurity learning experiences.
+
+We compete in and organize a variety of cybersecurity competitions and experiences, allowing Cyber Engineers, Computer Scientists, or anyone of any major to get real-world applicable experience in cyberseucirty and have fun along the way!
 
 [Jekyll]: https://jekyllrb.com
 [Louisiana Tech University]: https://www.latech.edu
