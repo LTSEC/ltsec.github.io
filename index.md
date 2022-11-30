@@ -35,6 +35,7 @@ Founded in 2018 as the Cybersecurity Defense Club, LTSEC has been the premier or
 [Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [LTSEC Website]: https://www.ltsec.club
+[LTSEC CTF]: https://ctf.ltsec.club
 [Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
 [GitHub Pages]: https://pages.github.com/
 [Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
