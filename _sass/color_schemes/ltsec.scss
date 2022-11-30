@@ -1,0 +1,6 @@
+@import "./color_schemes/dark";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;800&family=Lato:wght@400;900&display=swap');
+
+$body-font-family: Lato, system-ui, -apple-system, blinkmacsystemfont, "Segoe UI",
+  roboto, "Helvetica Neue", arial, sans-serif !default;
+$mono-font-family: "JetBrains Mono", "SFMono-Regular", menlo, consolas, monospace !default;
