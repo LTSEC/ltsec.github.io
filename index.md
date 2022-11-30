@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "LTSEC Docs is the doucmentation platform for LTSEC, the cybersecurity club at Louisiana Tech University."
+description: "LTSEC Docs is the documentation platform for LTSEC, the cybersecurity club at Louisiana Tech University."
 permalink: /
 ---
 
